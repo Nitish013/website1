@@ -1,0 +1,566 @@
+.box{
+    height: 80px;
+    width: 1200px;
+    border:solid 1px;
+    margin: auto;
+    background-color: greenyellow;
+}
+.s_box{
+    height: 50px;
+    width: 50px;
+    border: solid 1px;
+    margin-top: 14px;
+    margin-left: 20px;  
+    border-color: greenyellow;
+    float: left; 
+}
+.test{
+    list-style-type: none;
+}
+.box1{
+    height: 20px;
+    width: 80px;
+    float: left;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    border:solid 2px;
+    margin-left: 25px;
+    box-shadow: 2px 2px black;
+    margin-top: 2px;
+    border-radius: 30px;
+    border-color: rgb(0, 0, 0);
+    color: black;
+}
+.box3{
+    height: 50px;
+    width: 130px;
+    border: solid 1px;
+    margin-top: 12px;
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;  
+    border-color: greenyellow;
+    float: left; 
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+}
+.big_box{
+    height: 616px;
+    width: 1100px;
+    border: solid 1px;
+    margin: auto;
+    background-image: url("../img/Data-Stack-Hero-Census-Blog-1100x616.png");
+}
+.box4{
+    height: 616px;
+    width: 1100px;
+    border: solid 1px;
+    margin: auto;
+    background-image: url("../img/home-tech-bets-scroll-banner-da.jpg");
+    background-repeat: no-repeat;
+    background-size: 1100px 616px;
+    background-position: center;
+}
+.big
+{
+    height: 400px;
+    width: 250px;
+    margin-left: 20px;
+    border: solid 0px;
+    color: greenyellow;
+    padding-top: 25px;
+    float: left;
+}
+.big1{
+    height: 400px;
+    width: 250px;
+    margin-left: 555px;
+    border: solid 0px;
+    color: greenyellow;
+    padding-top: 25px;
+    float: left;
+    text-align: right;
+}
+.heading{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: greenyellow;
+    
+}
+.one{
+    color: aqua;
+}
+.box5{
+    height: 450px;
+    width: 450px;
+    margin-left: 50px;
+    margin-top: 100px;
+    border: solid 0px;
+    color: greenyellow;
+}
+.box6{
+    height: 450px;
+    width: 450px;
+    margin-left: 600px;
+    margin-top: 100px;
+    border: solid 0px;
+    color: greenyellow;
+    text-align: right;
+   
+}
+.box7{
+    height: 616px;
+    width: 1100px;
+    border: solid 1px;
+    margin: auto;
+    background-image: url("../img/blue-futuristic-networking-technology_53876-100679.avif");
+    background-repeat: no-repeat;
+    background-size: 1100px 616px;
+    background-position: center;
+}
+.box10{
+    height: 400px;
+    width: 700px;
+    border: solid 1px;
+    margin-left: 20px;
+    float: left;
+}
+.big_box1{
+    height: 920px;
+    width: 1100px;
+    border: solid 0px;
+    margin: auto;
+}
+.box15{
+    height: 100px;
+    width:200px;
+    border: solid 1px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 23px;
+
+}
+.box18{  
+    height: 900px;
+    width:270px;
+    border: solid 0px;
+    float: left;
+    margin-left: 45px;
+    margin-top:-20px
+}
+.box111{
+    height: 400px;
+    width: 700px;
+    border: solid 0px;
+    margin-left: -700px;
+    margin-top: 430px;
+    float:left;
+}
+.box134{
+    text-align: center;
+}
+.box101{
+    height: 348px;
+    width:1200px;
+    border: solid 1px; 
+    margin: auto;
+
+}
+.box102{
+    height: 350px;
+    width: 600px;
+    border: solid 1px; 
+    float: left;
+}
+.box1021{
+    height: 350px;
+    width: 596px;
+    border: solid 1px; 
+    float: left;
+    background-color: rgb(0, 0, 0);
+}
+.logo{
+    height: 100px;
+    width:120px;
+    border: solid 0px;
+    margin-top: 82px;
+    margin-left: 170px;
+    margin-right: 20px;
+    background-image: url(../img/kisspng-clip-art-portable-network-graphics-vector-graphics-2-tech-clip-for-free-download-on-ya-webdesign-5c754cd3791282.6702968315511912514959.png);
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    background-position-x: 20px;
+    float: left;
+}
+.name{
+    height: 60px;
+    width: 450px;
+    border: solid 0px;
+    margin-left: 130px;
+    margin-top: 210px;
+    color: #ffff00;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+.nam{
+   height: 30px;
+   width: 360px;
+   border: solid 1px;
+   border-radius: 20px;
+   margin-left: 12px;
+   margin-top: 22px;
+   padding-left: 15px;
+}
+.nam1{
+    height: 30px;
+    width: 250px;
+    border: solid 1px;
+    border-radius: 20px;
+    margin-left: 12px;
+    margin-top: 22px;
+    padding-left: 15px;
+ }
+ .nam2{
+    height: 30px;
+    width: 150px;
+    border: solid 1px;
+    border-radius: 20px;
+    margin-left: 12px;
+    margin-top: 22px;
+    padding-left: 15px;
+ }
+.boxx{
+    height: 80px;
+    width: 600px;
+    border : solid 0px;
+    margin: auto;
+}
+.s_box1{
+    height: 48px;
+    width: 146px;
+    border: solid 0px;
+    float: left;
+    text-align: right;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: greenyellow;
+}
+.s_box2{
+    height: 80px;
+    width: 450px;
+    border: solid 0px;
+    float: left;
+    padding-left: -20pxpx;
+}
+.button{
+    height: 50px;
+    width: 100px;
+    border: solid 0px;
+    background-color: greenyellow;
+    margin-left: 240px;
+    margin-top: 25px;
+    border-radius: 30px;
+}
+.nbox{
+    height: 348px;
+    width: 600px;
+    border: 0px solid;
+    float: left;
+    background-color: rgba(79,33,219,255);
+}
+.nbox1{
+    height: 348px;
+    width: 600px;
+    border: 0px solid;
+    float: left;
+    background-color: black;
+}
+.logo1{
+    height: 100px;
+    width:200px;
+    border-left: solid 2px;
+    margin-top: 1000px;
+    margin-left: 150px;
+    background-image: url(../img/tech-logo-design.png);
+    background-repeat: no-repeat;
+    background-size: 180px 106px;
+    background-position-x: -5px;
+    background-position-y: -15px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 80px;
+}
+.box1001{
+    height: 250px;
+    width:500px;
+    border: solid 0px;
+    margin: auto;
+    margin-top: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: greenyellow;
+}
+.box145{
+    height: 2142px;
+    width: 1200px;
+    border: solid 1px;
+    margin: auto;
+}
+.box123{
+    height: 100px;
+    width: 1200px;
+    border: solid 1px;
+}
+.data1{
+    height: 50px;
+    width: 200px;
+    border-radius: 30px;
+    border: solid 1px;
+    margin-top: 25px;
+    margin-left: 40px;
+    background-color: greenyellow;
+    text-align: center;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+}
+.small{
+    height: 20px;
+    width: 150px;
+    border: solid 0px; 
+    margin-top:13px;
+    margin-left: 25px;
+    text-align: center;
+}
+.databox{
+    height: 50px;
+    width: 890px;
+    border: solid 1p;
+    margin-left: 25px;
+    margin-top: 20px;
+    float: left;
+    padding-top: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.box258{
+    height: 304px;
+    width: 202px;
+    border: solid 2px;
+    margin-top: 50px;
+    margin-left: 78px;
+    float: left;
+    border-color: greenyellow;
+    border-radius: 30px;
+}
+.box252-1{
+    height:240px;
+    width:200px;
+    border: solid 1px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    background-image: url(../img/02poster-reese-slide-6K30-superJumbo.jpg);
+    background-repeat: no-repeat;
+    background-size: 215px 255px;
+    background-position: center;
+}
+.box252-2{
+    height:240px;
+    width:200px;
+    border: solid 1px;
+    background-image: url(../img/3BE60F43-C8BC-4175-83F5-FDD746004AD5_grande.webp);
+    background-repeat: no-repeat;
+    background-size: 200px 240px;
+    background-position: center;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.box252-3{
+    height:240px;
+    width:200px;
+    border: solid 1px;
+    background-image: url(../img/A1+YuyeAdqL._AC_UF1000\,1000_QL80_.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px 240px;
+    background-position: center;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.box252-4{
+    height:240px;
+    width:200px;
+    border: solid 1px;
+    background-image: url(../img/a2.jpg);
+    background-repeat: no-repeat;
+    background-size: 215px 255px;
+    background-position: center;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.box252-5{
+    height:240px;
+    width:200px;
+    border: solid 1px;
+    background-image: url(../img/e2a527d821cd9989b6bd64d6b2b358d4.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px 240px;
+    background-position: center;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.box252-6{
+    height:240px;
+    width:200px;
+    border: solid 1px;
+    background-image: url(../img/s-l1200.webp);
+    background-repeat: no-repeat;
+    background-size: 215px 255px;
+    background-position: center;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.box252-7{
+    height:240px;
+    width:200px;
+    border: solid 1px;
+    background-image: url(../img/D_NQ_NP_725172-MLB53358538036_012023-O.webp);
+    background-repeat: no-repeat;
+    background-size: 200px 240px;
+    background-position: center;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.box252-8{
+    height:240px;
+    width:200px;
+    border: solid 1px;
+    background-image: url(../img/images.jpg);
+    background-repeat: no-repeat;
+    background-size: 245px 365px;
+    background-position: center;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.box195{
+    height: 770px;
+    width: 1200px;
+    border: solid 1px;
+    background-color: black;
+    margin: auto;
+}
+.download{
+    height: 62px;
+    width: 202px;
+    border: solid 1px;
+    margin: auto;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    background-color: grey;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 0px;
+    font-size: x-large;
+}
+.download:hover{
+        background-color: greenyellow;
+}
+.box1995{
+    height: 800px;
+    width: 1200px;
+    border: solid 0px;
+    margin: auto;
+}
+.teams1{
+    height: 50px;
+    width: 450px;
+    margin: auto;
+    margin-top: 30px;
+    border: solid 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 33px;
+}
+.teams2{
+    height: 600px;
+    width: 1250px;
+    border: solid 0px;
+    margin-left: 23px;
+    margin-top: 10px;
+}
+.teams3{
+    height: 640px;
+    width: 540px;
+    border-right: solid 1px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.picture1{
+    height: 300px;
+    width: 500px;
+    border:solid 1px; 
+    background-image: url(../img/lakehouse_context_001_web_blade.avif);
+    margin-top: 18px;
+    background-repeat: no-repeat;
+    background-size: 500px 300px;
+    background-position: center;
+}
+.picture{
+    height: 300px;
+    width: 500px;
+    border:solid 1px; 
+    margin-top: 18px;
+    background-image: url(../img/TeamsSizzle-Ignite_tbmnl_en-us.avif);
+    background-repeat: no-repeat;
+    background-size: 500px 300px;
+    background-position: center;
+}
+.teams4{
+   height: 60px;
+    width: 450px;
+    margin: auto;
+    margin-left: 25px;
+    margin-top: 10px;
+    border: solid 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+}
+.teams5{
+    height: 300px;
+    width: 450px;
+    margin: auto;
+    margin-left: 25px;
+    margin-top: 10px;
+    border: solid 0px;
+    text-align: center;
+}
+.teams30{
+    height: 900px;
+    width: 550px;
+    border: solid 0px;
+    float: left;
+    margin-left: 35px;
+    margin-top: 20px;
+    float: left;
+}
+.box2222{
+    height: 20px;
+    width: 150px;
+    border: solid 0px;
+    margin: auto;
+    margin-top: 90px;
+}
+.box2221{
+    height: 20px;
+    width: 150px;
+    border: solid 0px;
+    margin: auto;
+    margin-top: 70px;
+}
+
+           
+
+
+  
